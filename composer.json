@@ -1,5 +1,5 @@
 {
-  "name": "jenner/message_queue",
+  "name": "maiyuan/message_queue",
   "description": "php message queue wrapper",
   "license": "MIT",
   "keywords": ["message queue"],
