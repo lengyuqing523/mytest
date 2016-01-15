@@ -1,5 +1,5 @@
 {
-  "name": "maiyuan/message_queue",
+  "name": "maiyuan/message_queue-module",
   "description": "php message queue wrapper",
   "license": "MIT",
   "keywords": ["message queue"],
