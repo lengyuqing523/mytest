@@ -5,6 +5,7 @@
   "license": "MIT",
   "keywords": ["message queue"],
   "version": "1.0.0",
+  "homepage": "http://localhost/",
   "authors": [{
     "name": "lengyuqing",
     "email": "613329127@qq.com"
